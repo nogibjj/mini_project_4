@@ -1,6 +1,6 @@
+[![CI](https://github.com/nogibjj/mini_project_4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini_project_4/actions/workflows/cicd.yml)
 
-
-## mini project 2: Pandas Descriptive Statistics 
+## mini project 4: GitHub Actions Matrix Build for Multiple Python Versions 
 
 This repo contains: 
 - .devcontainer     
@@ -13,7 +13,8 @@ This repo contains:
 - test_main.py
 
 ## Overview
-- The purpose of this project is to build descriptive statistic template by using `Pandas` and its associated attributes (e.g.`DataFrame.describe()`). 
+- The purpose of this project is to set up a GitHub Actions workflow and test across at least 3 different Python versions. 
+- Python scripts are provided for descriptive statistics written in `Pandas` and its associated attributes (e.g.`DataFrame.describe()`). 
 - Functions wrote by the authors are `findMin`, `findMax` and `calcMean`.
 - Visualizations are produced to demonstrate the relationship between features. 
 
