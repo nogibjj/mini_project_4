@@ -24,6 +24,9 @@ This repo contains:
 
 test successfully passed 
 
+## Github Action Matrix Build Setup
+
+
 ## statistical results of the data 
 ### 1. general outlook of the data from head
 <img width="699" alt="Screenshot 2023-09-10 at 18 29 27" src="https://github.com/nogibjj/mini_project_2/assets/141781876/34311d34-da55-4744-89e1-2f94036c1779">
