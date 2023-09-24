@@ -25,7 +25,9 @@ This repo contains:
 test successfully passed 
 
 ## Github Action Matrix Build Setup
+<img width="678" alt="Screenshot 2023-09-24 at 10 27 34" src="https://github.com/nogibjj/mini_project_4/assets/141781876/c391e6eb-078f-4a83-afb3-fd508e5d96c4">
 
+* Matrix Build meaning multiple Python versions are cofigured.  
 
 ## statistical results of the data 
 ### 1. general outlook of the data from head
