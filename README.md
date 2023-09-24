@@ -20,7 +20,8 @@ This repo contains:
 
 
 ## Check and test
-<img width="1728" alt="Screenshot 2023-09-10 at 12 43 15" src="https://github.com/nogibjj/mini_project_2/assets/141781876/4e8796e4-21ae-4a02-8f46-c55dfb7e32ab">
+<img width="1189" alt="Screenshot 2023-09-24 at 10 19 45" src="https://github.com/nogibjj/mini_project_4/assets/141781876/e0227078-d31e-4359-85c9-a264531e5311">
+
 test successfully passed 
 
 ## statistical results of the data 
