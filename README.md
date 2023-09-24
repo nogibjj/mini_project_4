@@ -25,9 +25,9 @@ This repo contains:
 test successfully passed 
 
 ## Github Action Matrix Build Setup
-<img width="678" alt="Screenshot 2023-09-24 at 10 27 34" src="https://github.com/nogibjj/mini_project_4/assets/141781876/c391e6eb-078f-4a83-afb3-fd508e5d96c4">
+<img width="626" alt="Screenshot 2023-09-24 at 10 42 12" src="https://github.com/nogibjj/mini_project_4/assets/141781876/72831b6f-4c75-408c-9406-fb9069f70faa">
 
-* Matrix Build meaning multiple Python versions are cofigured.  
+This GitHub Actions workflow is designed to automate the testing and building process for a project by utilizing a matrix that includes multiple different versions of Python and two distinct operating systems. This setup allows you to ensure the compatibility and reliability of your code across multiple Python versions and operating system environments.  
 
 ## statistical results of the data 
 ### 1. general outlook of the data from head
