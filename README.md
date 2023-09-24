@@ -1,37 +1,40 @@
-[![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
-## Template for Python projects with RUFF linter
-
-![1 15_rust_built_python_tools](https://github.com/nogibjj/python-ruff-template/assets/58792/db5f7bda-a977-4c67-acbe-a70fe034fbdf)
 
 
+## mini project 2: Pandas Descriptive Statistics 
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+This repo contains: 
+- .devcontainer     
+- .github   
+- .gitignore    
+- Makefile  
+- README.md     
+- requirements.txt      
+- main.py   
+- test_main.py
 
-Things included are:
+## Overview
+- The purpose of this project is to build descriptive statistic template by using `Pandas` and its associated attributes (e.g.`DataFrame.describe()`). 
+- Functions wrote by the authors are `findMin`, `findMax` and `calcMean`.
+- Visualizations are produced to demonstrate the relationship between features. 
 
-* `Makefile`
 
-* `Pytest`
+## Check and test
+<img width="1728" alt="Screenshot 2023-09-10 at 12 43 15" src="https://github.com/nogibjj/mini_project_2/assets/141781876/4e8796e4-21ae-4a02-8f46-c55dfb7e32ab">
+test successfully passed 
 
-* `pandas`
+## statistical results of the data 
+### 1. general outlook of the data from head
+<img width="699" alt="Screenshot 2023-09-10 at 18 29 27" src="https://github.com/nogibjj/mini_project_2/assets/141781876/34311d34-da55-4744-89e1-2f94036c1779">
 
-* `Ruff`:  
+### 2. statistical summary
+<img width="1038" alt="Screenshot 2023-09-10 at 18 29 03" src="https://github.com/nogibjj/mini_project_2/assets/141781876/9fe61268-e137-465c-b2f8-242b8a09a1a4">
 
-Run `make lint` which runs `ruff check`.  You can find out more info on [Ruff here](https://github.com/astral-sh/ruff).
 
-* `Dockerfile`
+## A glimpse of the data visualization 
+![Figure_1](https://github.com/nogibjj/mini_project_2/assets/141781876/fd2ab311-baf7-43a6-95ec-6bcf1e8504f4)
 
-* `GitHub copilot`
 
-* `jupyter` and `ipython` 
 
-* A base set of libraries for devops and web
-
-* `githubactions`
-
-## References
-
-![1 1-function-essence-of-programming](https://github.com/nogibjj/python-ruff-template/assets/58792/f7f33cd3-cff5-4014-98ea-09b6a29c7557)
 
 
 
