@@ -13,7 +13,7 @@ This repo contains:
 - test_main.py
 
 ## Overview
-- The purpose of this project is to set up a GitHub Actions workflow and test across at least 3 different Python versions. 
+- The purpose of this project is to set up a GitHub Actions workflow and test across at least 3 different Python versions (e.g. 3.8 , 3.9 3.10.x, 3.11). 
 - Python scripts are provided for descriptive statistics written in `Pandas` and its associated attributes (e.g.`DataFrame.describe()`). 
 - Functions wrote by the authors are `findMin`, `findMax` and `calcMean`.
 - Visualizations are produced to demonstrate the relationship between features. 
