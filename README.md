@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/mini_project_4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini_project_4/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/mini_project_4/actions/workflows/cicd.yml/badge.svg?branch=main)](https://github.com/nogibjj/mini_project_4/actions/workflows/cicd.yml)
 
 ## mini project 4: GitHub Actions Matrix Build for Multiple Python Versions 
 
